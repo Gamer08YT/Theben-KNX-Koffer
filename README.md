@@ -3,6 +3,10 @@ Thanks to Theben for the KNX set. In this repository I would like to publish the
 
 The texture mappings are taken from the product images on the website.
 
+
+![KNX_Koffer_2024-Dec-21_09-52-20AM-000_CustomizedView36665210279](https://github.com/user-attachments/assets/5f08c80d-c9d8-48b8-8878-1d83f92d8002)
+
+
 ## Components
 
 IP Router: 
